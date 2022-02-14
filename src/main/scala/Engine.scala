@@ -22,7 +22,7 @@ object Engine {
 
 
       val newHealth = triggeredGun.shoot(selectedPlayer)
-      selectedPlayer.setHealth(newHealth)
+
     }
     println(" I'm dead!!!!!!!!!")
 
