@@ -1,0 +1,1 @@
+class Player1( name : String, weapon: String) extends Player(name,weapon)
